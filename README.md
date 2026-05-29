@@ -1,4 +1,4 @@
-# NextStep 🚀
+# NextStep 
 
 > **Plataforma de Empleo para Egresados sin Experiencia Laboral**
 
