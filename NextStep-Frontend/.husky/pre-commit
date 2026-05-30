@@ -1,0 +1,3 @@
+#!/bin/sh
+cd NextStep-Frontend
+npx lint-staged
